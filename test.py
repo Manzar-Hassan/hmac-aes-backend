@@ -66,5 +66,8 @@ def test_post_request():
 
 
 if __name__ == "__main__":
-    # test_get_request()
-    test_post_request()
+    # uncomment to test GET request
+    test_get_request()
+
+    # uncomment to test POST request
+    # test_post_request()
